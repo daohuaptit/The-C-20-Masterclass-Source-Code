@@ -1,2 +1,0 @@
-This is the file that i use to keep track of learning Cpp process
-This is a dummy message
